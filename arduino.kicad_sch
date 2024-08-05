@@ -5361,6 +5361,28 @@
 			)
 		)
 	)
+	(global_label "DTR"
+		(shape input)
+		(at 184.15 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3ab3e428-5383-468e-a39f-a498a17d436e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 190.6428 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 91.44 40.64 0)
